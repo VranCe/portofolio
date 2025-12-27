@@ -30,5 +30,5 @@ This is a simple, modern, and responsive portfolio built to showcase personal br
 Clone the repo:
 
 ```bash
-git clone https://github.com/vezura/portfolio.git
-cd vezura-portfolio
+$ git clone https://github.com/VranCe/portfolio.git
+$ cd portfolio
